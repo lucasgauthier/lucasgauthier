@@ -9,8 +9,8 @@ My projects include:
 - [fastify-starter](https://github.com/lucasgauthier/fastify-starter) - A template to scaffold your Fastify server
 - More to come...
 
-## Currently looking 🔎
+## A project you think I could contribute to? 🔎
 
-I'm currently based in Copenhagen, and am **open to new opportunities**. 
+I'm currently based in Copenhagen.
 
-Don't hesitate to reach out if you have an interesting project or role in mind, or if you'd just like to connect!
+Don't hesitate to reach out if you have an interesting project you would want me to contribute to, or if you'd just like to connect!
